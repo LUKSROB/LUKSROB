@@ -91,5 +91,6 @@ Estos también forman parte del trabajo y desarrollo personal, pero no están di
 </div>
 
 <div align="center">
-  <i>⭐️ Hecho con pasión por LUKSROB</i>
+
+  *Hecho con ❤️ por [LUKSROB](https://github.com/LUKSROB)*
 </div>
